@@ -1,0 +1,6 @@
+#include <stdio.h>
+int main()
+{
+prinf("welcome to the world");
+return 0;
+}
